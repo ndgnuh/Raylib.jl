@@ -1,6 +1,6 @@
 name = "Raylib"
 uuid = "681baf3e-1d1e-48c9-b5e5-b1aea2d6d4d9"
-version = "0.3.0"
+version = "0.3.1"
 authors = ["chengchingwen <adgjl5645@hotmail.com> and contributors"]
 
 [deps]
@@ -9,8 +9,8 @@ Raylib_jll = "f9cae4b5-603c-5a13-b73f-1dfe71482639"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 
 [compat]
-CEnum = "0.4"
-StaticArrays = "1.2"
+CEnum = "^0.4"
+StaticArrays = "^1.2"
 julia = "1.6"
 
 [extras]
